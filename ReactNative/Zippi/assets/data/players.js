@@ -1,0 +1,81 @@
+export default [
+    {
+      id: '0',
+      username: 'InfernoBob',
+      tossed: 'head',
+      tossedHead: true,
+      tossedTail: false,
+    },
+    {
+      id: '1',
+      username: 'Sellcom',
+      tossed: 'tail',
+      tossedHead: false,
+      tossedTail: true,
+    },
+    {
+      id: '2',
+      username: 'Anavanchu',
+      tossed: 'tail',
+      tossedHead: false,
+      tossedTail: true,
+    },
+    {
+      id: '3',
+      username: 'Neurrefl',
+      tossed: 'head',
+      tossedHead: true,
+      tossedTail: false,
+    },
+    {
+      id: '4',
+      username: 'Sadiretti',
+      tossed: 'tail',
+      tossedHead: false,
+      tossedTail: true,
+    },
+    {
+      id: '5',
+      username: 'AngelShark',
+      tossed: 'head',
+      tossedHead: true,
+      tossedTail: false,
+    },
+    {
+      id: '6',
+      username: 'Gazetternic',
+      tossed: 'tail',
+      tossedHead: false,
+      tossedTail: true,
+    },
+    {
+      id: '7',
+      username: 'GodzillaBelieve',
+      tossed: 'tail',
+      tossedHead: false,
+      tossedTail: true,
+    },
+    {
+      id: '8',
+      username: 'AnarchyBing',
+      tossed: 'tail',
+      tossedHead: false,
+      tossedTail: true,
+    },
+    {
+      id: '9',
+      username: 'Ineshira',
+      tossed: 'head',
+      tossedHead: true,
+      tossedTail: false,
+    },
+    {
+      id: '10',
+      username: 'Jinfonti',
+      tossed: 'head',
+      tossedHead: true,
+      tossedTail: false,
+    },
+
+  ];
+  

@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-zippi-dev-155143-authRole",
+      "UnauthRoleArn": "arn:aws:iam::327280868817:role/amplify-zippi-dev-155143-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::327280868817:role/amplify-zippi-dev-155143-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-zippi-dev-155143-deployment",
+      "UnauthRoleName": "amplify-zippi-dev-155143-unauthRole",
+      "StackName": "amplify-zippi-dev-155143",
+      "StackId": "arn:aws:cloudformation:us-east-1:327280868817:stack/amplify-zippi-dev-155143/8dd63960-26ac-11ec-b1d1-0ea7e4bf0341",
+      "AmplifyAppId": "d3874canxjpcdo"
+    },
+    "categories": {
+      "auth": {
+        "zippib018c592": {}
+      }
+    }
+  }
+}

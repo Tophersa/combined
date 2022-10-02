@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "225597764655",
+    "project_id": "tocsin-app",
+    "storage_bucket": "tocsin-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225597764655:android:9cbcc209f9b8d9b8c902da",
+        "android_client_info": {
+          "package_name": "com.tocsinapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225597764655-bj9q3se5c0d7il6mdl71k2ecr86emaat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOK4LtT5pq3OcKL11ivOLNENoGkLZsYg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225597764655-bj9q3se5c0d7il6mdl71k2ecr86emaat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
